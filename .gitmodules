@@ -1,0 +1,9 @@
+[submodule "MSPR_Bloc_4_api-clients"]
+	path = MSPR_Bloc_4_api-clients
+	url = git@github.com:AdrianeRuggiero/MSPR_Bloc_4_api-clients.git
+[submodule "MSPR_Bloc_4_api-products"]
+	path = MSPR_Bloc_4_api-products
+	url = git@github.com:AdrianeRuggiero/MSPR_Bloc_4_api-products.git
+[submodule "MSPR_Bloc_4_api-orders"]
+	path = MSPR_Bloc_4_api-orders
+	url = git@github.com:AdrianeRuggiero/MSPR_Bloc_4_api-orders.git
